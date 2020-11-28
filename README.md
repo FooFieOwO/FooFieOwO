@@ -1,14 +1,36 @@
-<div>
-<h2 align="center"> About Me </h2>
+<details>
+  <summary align="center">About Me</summary>
+  
 <li><b>Name:</b> Pascal</li>
 <li><b>Hobbys:</b> Programming, Playing some games</li>
 <li><b>Fandoms:</b> Furry and Brony</li>
 <li><b>Species:</b> FoxPony🦊</li>
 <li><b>Sexuality:</b> PanSexual ❤️💛💙</li>
 <li><b>I like:</b> My Cute Boyfriend</li>
-</div>
+
+</details>
 
 <br>
+
+<details>
+  <summary align="center">Languages</summary>
+  
+  <details>
+    <summary>Programming</summary>
+    <li><b></b>Java</li>
+    <li><b></b>Kotlin</li>
+  </details>
+  
+  <details>
+    <summary>Speak</summary>
+    <li><b></b>German</li>
+    <li><b></b>English</li>
+  </details>
+</details>
+
+<br>
+
+<h2 align="center"> Social Stuff </h2>
 
 <div>
 <p align="center">
