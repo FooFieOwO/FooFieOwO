@@ -1,5 +1,5 @@
 <details>
-  <summary align="center">About Me</summary>
+  <summary>About Me</summary>
   
 <li><b>Name:</b> Pascal</li>
 <li><b>Hobbys:</b> Programming, Playing some games</li>
@@ -13,7 +13,7 @@
 <br>
 
 <details>
-  <summary align="center">Languages</summary>
+  <summary>Languages</summary>
   
   <details>
     <summary>Programming</summary>
