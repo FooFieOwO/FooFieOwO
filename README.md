@@ -1,16 +1,16 @@
-### Hi there 👋
+<div>
+<b align="center"> 🦊 About Me 🦊 </b>
+<li><b>Name:</b> Pascal</li>
+<li><b>Hobbys:</b> Programming</li>
+<li><b>Fandoms:</b> Furry and Brony</li>
+<li><b>Species:</b> FoxPony</li>
+</div>
 
-<!--
-**FooFieOwO/FooFieOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<b align="center"> 📝 Contact Me 📝</b>
+<li><b>Twitter:</b> @FooFieOwO</li>
+<li><b>Discord:</b> FooFieOωO ᵁʷᵁ#1292</li>
+</div>
+</body>
