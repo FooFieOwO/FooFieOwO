@@ -1,9 +1,9 @@
 <div>
-<b align="center"> 🦊 About Me 🦊 </b>
+<h2 align="center"> About Me </h2>
 <li><b>Name:</b> Pascal</li>
 <li><b>Hobbys:</b> Programming, Playing some games</li>
 <li><b>Fandoms:</b> Furry and Brony</li>
-<li><b>Species:</b> FoxPony</li>
+<li><b>Species:</b> FoxPony🦊</li>
 <li><b>Sexuality:</b> PanSexual ❤️💛💙</li>
 <li><b>I like:</b> My Cute Boyfriend</li>
 </div>
