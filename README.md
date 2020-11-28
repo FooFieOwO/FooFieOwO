@@ -11,18 +11,12 @@
 <br>
 
 <details>
-  <summary>Languages</summary>
+  <summary>Languages i know</summary>
+   <li><b></b>German</li>
+   <li><b></b>English</li>
     <br>
-      <details>
-       <summary>Programming</summary>
-         <li><b></b>Java</li>
-         <li><b></b>Kotlin</li>
-       </details>
-       <details>
-         <summary>Speak</summary>
-           <li><b></b>German</li>
-           <li><b></b>English</li>
-       </details>
+   <li><b></b>Java</li>
+   <li><b></b>Kotlin</li>
 </details>
 
 <br>
