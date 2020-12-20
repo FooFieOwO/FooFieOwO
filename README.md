@@ -21,7 +21,7 @@
 
 <br>
 
-![FooFieOwO's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=gradient&show_icons=true&layout=compact)
 
 <br>
 
