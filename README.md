@@ -21,7 +21,7 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=gradient&show_icons=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=radial&show_icons=true&layout=compact)
 
 <br>
 
