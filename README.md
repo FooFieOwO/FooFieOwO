@@ -21,6 +21,12 @@
 
 <br>
 
+# 🏆 Github Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=radial&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FooFieOwO&theme=radial&layout=compact)](https://github.com/FooFieOwO)
+
+<br>
+
 <h2 align="center"> Social Stuff </h2>
 
 <div>
