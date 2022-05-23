@@ -3,7 +3,7 @@
     <li><b>Name:</b> Pascal</li>
     <li><b>Hobbys:</b> Programming, Playing some games</li>
     <li><b>Fandoms:</b> Furry and Brony and a bit weeb</li>
-    <li><b>Species:</b> Fox🦊</li>
+    <li><b>Species:</b> Fox 🦊</li>
     <li><b>Sexuality:</b> PanSexual ❤️💛💙</li>
     <li><b>Gender/Pronouns:</b> Genderfluid (any) </li>
     <li><b>I like:</b> My Cute Boyfriend and Cookies </li>
@@ -13,13 +13,14 @@
 
 <details>
   <summary>Languages i know</summary>
-   <li><b></b>Java</li>
-   <li><b></b>Kotlin</li>
+   <li>Java</li>
+   <li>Kotlin</li>
    <br>
   <summary>Languages I learn</summary>
-   <li><b></b>C#</li>
-   <li><b></b>HTML</li>
-   <li><b></b>CSS/SCSS</li>
+   <li>C#</li>
+   <li>HTML</li>
+   <li>CSS/SCSS</li>
+   <li>Javascript/Typescript</li>
 </details>
 
 <br>
