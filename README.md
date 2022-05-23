@@ -23,7 +23,9 @@
    <li>Go</li>
 </details>
 <br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=radial&show_icons=true&layout=compact)
+
 <br>
 <h2 align="center"> Social Stuff </h2>
 <div>
