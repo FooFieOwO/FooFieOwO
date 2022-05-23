@@ -8,11 +8,9 @@
     <li><b>Gender/Pronouns:</b> Genderfluid (any) </li>
     <li><b>I like:</b> My Cute Boyfriend and Cookies </li>
 </details>
-
 <br>
-
 <details>
-  <summary>Languages i know/learn</summary>
+  <summary>Languages im familiar with / I want to learn</summary>
    <li>Java</li>
    <li>Kotlin</li>
    <br>
@@ -21,16 +19,13 @@
    <li>HTML</li>
    <li>CSS/SCSS</li>
    <li>Javascript/Typescript</li>
+   <li>Rust</li>
+   <li>Go</li>
 </details>
-
 <br>
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=radial&show_icons=true&layout=compact)
-
 <br>
-
 <h2 align="center"> Social Stuff </h2>
-
 <div>
 <p align="center">
     <a href="https://twitter.com/FooFieOwO">
