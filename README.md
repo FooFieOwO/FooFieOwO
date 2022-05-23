@@ -18,6 +18,7 @@
    <br>
   <summary>Languages I learn</summary>
    <li>C#</li>
+   <li>C/C++</li>
    <li>HTML</li>
    <li>CSS/SCSS</li>
    <li>Javascript/Typescript</li>
