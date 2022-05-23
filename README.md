@@ -12,11 +12,10 @@
 <br>
 
 <details>
-  <summary>Languages i know</summary>
+  <summary>Languages i know/learn</summary>
    <li>Java</li>
    <li>Kotlin</li>
    <br>
-  <summary>Languages I learn</summary>
    <li>C#</li>
    <li>C/C++</li>
    <li>HTML</li>
