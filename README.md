@@ -1,13 +1,4 @@
 <details>
-  <summary>About Me</summary>
-    <li><b>Name:</b> Pascal</li>
-    <li><b>Hobbys:</b> Programming, Playing some games</li>
-    <li><b>Fandoms:</b> Furry and Brony and a bit weeb</li>
-    <li><b>Species:</b> Fox 🦊</li>
-    <li><b>Sexuality:</b> PanSexual ❤️💛💙</li>
-    <li><b>Gender/Pronouns:</b> Genderfluid (any) </li>
-    <li><b>I like:</b> My Cute Boyfriend and Cookies </li>
-</details>
 <br>
 <details>
   <summary>Languages im familiar with / I want to learn</summary>
