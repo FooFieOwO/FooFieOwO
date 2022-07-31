@@ -1,7 +1,5 @@
-<details>
 <br>
-<details>
-  <summary>Languages im familiar with / I want to learn</summary>
+  <h2> Languages im familiar with / I want to learn</h2>
    <li>Java</li>
    <li>Kotlin</li>
    <br>
@@ -12,7 +10,6 @@
    <li>Javascript/Typescript</li>
    <li>Rust</li>
    <li>Go</li>
-</details>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=radial&show_icons=true&layout=compact)
