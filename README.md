@@ -1,15 +1,13 @@
 <br>
-  <h2> Languages im familiar with / I want to learn</h2>
+  <h2> Languages and Frameworks i work with
    <li>Java</li>
    <li>Kotlin</li>
-   <br>
    <li>C#</li>
    <li>C/C++</li>
    <li>HTML</li>
+   <li>React</li>
    <li>CSS/SCSS</li>
    <li>Javascript/Typescript</li>
-   <li>Rust</li>
-   <li>Go</li>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FooFieOwO&theme=radial&show_icons=true&layout=compact)
