@@ -3,7 +3,7 @@
 
 <p align="center">
     『 19y/o 』
-    『 she/they 』
+    『 she/her 』
     『 transfem 🏳️‍⚧️ 』
     『 Furry, Brony and Weeb 』
 </p>
