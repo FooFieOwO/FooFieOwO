@@ -2,7 +2,7 @@
 <h3 align="center">Student and hobby-developer</h3>
 
 <p align="center">
-    『 20y/o 』
+    『 21y/o 』
     『 she/her 』
     『 transfem 🏳️‍⚧️ 』
     『 Furry, Brony and Weeb 』
