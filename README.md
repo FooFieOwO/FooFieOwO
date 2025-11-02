@@ -6,7 +6,11 @@
     『 she/her 』
     『 transfem 🏳️‍⚧️ 』
     『 Furry, Brony and Weeb 』
+
+    Im working on some Minecraft mods right now.
 </p>
+
+
 
 <h3 align="center">My Knowledge:</h3>
 <p align="center">
